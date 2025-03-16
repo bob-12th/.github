@@ -1,4 +1,4 @@
-## Hi there👋 I'm [oxdjww](https://oxdjww.xyz)
+## Hi there👋 I'm [oxdjww](https://netcat.kr)
 ### BoB 12th Dev Assignment
 <!--
 
